@@ -4,7 +4,7 @@
 These are the notes from _Diplomado de aplicaciones moviles_
 
 ## First class
-- MacOS ecosystem
+- OS X ecosystem
 - Constants and variables
 - How to use playground
 - Collections
